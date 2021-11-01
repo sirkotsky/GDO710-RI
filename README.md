@@ -1,1 +1,2 @@
-# GDO710-week-2
+# GDO710 Week 2 — Rapid Ideation Project
+By Kristian Mikhel
